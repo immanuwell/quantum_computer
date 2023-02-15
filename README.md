@@ -241,6 +241,7 @@
 
 
 
+[Квантовое подбрасывание монетки](https://quantum-computing.ibm.com/composer/files/4be59235ec293835f5ced3902efc67fe10b12c92af3256ba4aaff521c022b8b1)
 
 ![](https://i.imgur.com/aOVe2mf.png)
 
